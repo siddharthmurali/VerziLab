@@ -1,0 +1,6 @@
+//Boxplot with aesthetics…last param is for ordering
+
+bp <- ggplot(data = out6AllValues, aes(x = Sample, y = RPKM)) + 
+    geom_boxplot(aes(fill=Sample)) + 
+    geom_point(aes(color = Sample)) + ylim(0,10) + stat_summary(fun.y=mean, colour="darkred", geom="point", shape=18, size=3,show_guide = FALSE) + theme_bw() + xlim("Fetal-SI", "ESC", "Endo", "D4CF", "Adult-SI")
+

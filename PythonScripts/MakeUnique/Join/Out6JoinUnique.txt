@@ -1,0 +1,1640 @@
+Gene     RPKM           
+
+SCARNA23            0
+
+TMEM27              0.48748
+
+TANK                33.3007
+
+PDE3A               6.09919
+
+PLK2                7.29885
+
+ERO1LB              3.77963
+
+DST                 10.6193
+
+MIR4735             0
+
+MEX3A               0.453649
+
+ATXN7               5.26152
+
+SOX5                0.411053
+
+TRHR                0
+
+TCN2                13.478
+
+PLCH1               2.39
+
+UQCRH               748.41
+
+PSMG1               18.0873
+
+SCYL1               34.7484
+
+PTH                 0
+
+OR10A5              0
+
+SCEL                0.0254508
+
+CADM2               0.170295
+
+SYT16               0.0125666
+
+DTWD1               3.90915
+
+TTC3                16.6762
+
+PCGEM1              0
+
+LINC00486           0
+
+C9orf3              10.6687
+
+KCNK5               43.5001
+
+PADI4               0.0179115
+
+OTOGL               0.00466713
+
+ADSS                21.8306
+
+GXYLT2              0.193393
+
+SPTA1               0.00470661
+
+HYALP1              0
+
+OR51S1              0
+
+LINC00460           0
+
+CXCR4               15.7311
+
+POLA1               3.35317
+
+RASSF8              1.69986
+
+HAUS6               2.40381
+
+AMOT                4.3538
+
+LOC399815           0.516262
+
+SNORD103A           0
+
+BAHD1               10.5793
+
+RACGAP1             7.59117
+
+OR2A7               1.66691
+
+MIR548H2            0
+
+GCNT4               8.94984
+
+OR5B21              0
+
+HAP1                0.364736
+
+APLNR               1.38926
+
+IDH1                202.18
+
+UGT2B4              0
+
+EDARADD             16.7177
+
+CPA5                0
+
+MIR4652             0
+
+KLRC3               0.829631
+
+LOC100132735        0
+
+RPSAP52             0
+
+SP8                 0
+
+RPL23P8             8.44376
+
+URI1                20.554
+
+CTAGE4              0
+
+MMP13               0
+
+DEFB110             0
+
+BAMBI               0.683655
+
+MIR1233-1           0
+
+COL3A1              20.5433
+
+HIC2                1.26839
+
+MSTN                0.0987079
+
+RAB14               42.9955
+
+HAMP                0
+
+OR2A1               0
+
+KCNG4               0
+
+TDP2                258.867
+
+PLS1                225.542
+
+COX6C               436.31
+
+DEFB105B            0
+
+MIR4509-1           0
+
+SRSF4               66.5216
+
+HIST1H2AL           7.48323
+
+GCC2                11.6559
+
+GPR56               10.3829
+
+USP44               0.149901
+
+MIR448              0
+
+CMAS                133.942
+
+ABCB5               0
+
+PROM1               2.15252
+
+CCDC30              0.799554
+
+CCDC85A             0.879643
+
+VWDE                0
+
+CGA                 0
+
+FBXW12              0
+
+NBPF10              0.11631
+
+OLFM3               0.463663
+
+XIRP2               2.44969
+
+KIAA1462            2.25975
+
+PRKG2               10.8659
+
+WDR83OS             153.972
+
+LDHC                1.9596
+
+MIR1244-1           0
+
+UROC1               0.133618
+
+APLF                0.416873
+
+TNIP3               0.202388
+
+FMO1                0.115286
+
+ILDR1               1.72465
+
+OR10Z1              0
+
+SALL1               0.254083
+
+NRG1                0.32285
+
+SLC36A3             0
+
+TCEB3C              0
+
+GTF2H2              0.298167
+
+CHI3L2              0.482406
+
+PREX1               3.61431
+
+STOML3              0
+
+MS4A3               0
+
+LRRC3B              0.0497526
+
+GGH                 3.97517
+
+IFNA2               0
+
+CLOCK               2.81322
+
+ATF7IP2             2.71891
+
+MIR3911             249.634
+
+ZMAT3               1.89596
+
+GRXCR2              0
+
+MIR4699             0
+
+MIR4429             0
+
+NFKB2               10.6768
+
+MSGN1               0
+
+MOGS                53.29
+
+CPB2                0
+
+GPM6A               1.43407
+
+MIR302A             0
+
+RBBP9               6.59391
+
+IL4R                22.0319
+
+DMP1                0
+
+MIR1296             0
+
+C3orf79             0
+
+CD36                28.2053
+
+TMPRSS11GP          0
+
+PARP15              0.236141
+
+C6orf226            25.328
+
+PPTC7               8.61628
+
+SNAR-D              0
+
+AKAP10              7.04441
+
+TSSK4               0.340582
+
+GNG3                2.96948
+
+LRRC37A2            0.506839
+
+CPA2                21.1022
+
+MAST4               2.36182
+
+ANP32C              7.93692
+
+MUC7                0
+
+TUSC3               2.92818
+
+ARHGEF33            0.109405
+
+LIN28A              0
+
+SULT1B1             50.9771
+
+PROL1               0
+
+CHL1                2.28048
+
+SERPINB11           0
+
+SPDYC               0.472363
+
+LOC100129345        0
+
+MKRN2               14.575
+
+NEDD4L              20.2187
+
+WDR83               9.74753
+
+TDRD1               0.0256486
+
+DEFB132             0.0192748
+
+ANKRD6              0.472085
+
+PLA2G2E             0
+
+PDE7B               0.732018
+
+GPR87               0.0281571
+
+ADNP2               8.19177
+
+SPP1                3.72209
+
+SLC9A8              4.75915
+
+PYCR2               30.3494
+
+VWCE                1.2142
+
+HIF1A               23.0848
+
+RBMS3               1.97193
+
+MIR1298             0
+
+KC6                 0
+
+NUBPL               3.43952
+
+NAPB                5.50609
+
+MGAT4C              0.0854405
+
+CRB2                0.0823036
+
+CYP4A11             1.34096
+
+FBXL3               24.8673
+
+MIR1244-2           0
+
+MAP2K6              4.08561
+
+CORO2B              1.49743
+
+LIN9                2.7155
+
+CFHR2               0
+
+TUBA1C              269.487
+
+HERC4               23.1938
+
+BIN2                2.34539
+
+SEMA3A              0.749384
+
+LOC283038           0.106981
+
+HHLA1               0
+
+WDYHV1              5.02779
+
+MIR302C             0
+
+
+
+NBN                 9.12162
+
+LOC100130093        0.855823
+
+FAM180A             0.557868
+
+OR5M9               0
+
+MAN2B1              19.7763
+
+CCDC88A             1.03281
+
+PDE4B               3.1504
+
+SFN                 107.466
+
+LAMP1               59.1468
+
+GRK5                27.8286
+
+COX5A               402.766
+
+ADH1B               93.4932
+
+FAM91A1             18.143
+
+MIR3146             0
+
+MIR331              0
+
+R3HDM1              4.74264
+
+REXO1L2P            0
+
+HTR7                0.18151
+
+MIR4318             0
+
+WBSCR27             0.205386
+
+P2RY12              1.05544
+
+ACTL9               0
+
+FLJ46066            0.256096
+
+MIR320C2            0
+
+EVI5                4.72441
+
+C6orf120            13.3378
+
+MIR34C              0
+
+SLC11A2             12.2778
+
+NR1I2               78.8261
+
+TECR                18.2939
+
+LPCAT2              2.9028
+
+EGFLAM              0.408253
+
+SLC16A7             0.331207
+
+LOC100505912        0
+
+IBSP                0
+
+SH3D19              56.3148
+
+DOCK11              1.08684
+
+MIR4773-2           0
+
+C6orf211            20.7585
+
+C11orf88            0
+
+CSPP1               6.14752
+
+MAOA                224.751
+
+NCOR1               60.2388
+
+JAKMIP2             0.258896
+
+CNTN1               0.378989
+
+TMEM222             28.6367
+
+PPIAL4B             0
+
+MIR1233-2           0
+
+OR6C76              0
+
+KRTAP10-2           0.0428905
+
+DEFB105A            0
+
+TCF12               20.5272
+
+GRAMD1A             4.61913
+
+GATA3               0.335843
+
+SORT1               11.5116
+
+TAS2R14             0.298077
+
+LOC100128554        0
+
+CASP12              0.0985563
+
+RARB                0.881391
+
+KIAA1279            11.9502
+
+GPATCH8             10.1861
+
+MIR4276             0
+
+MIR181B2            0
+
+MIR764              0
+
+MIR548I4            0
+
+CCNJ                3.19013
+
+ITLN1               58.8995
+
+IPO8                13.6554
+
+BFSP1               0.139082
+
+SEMA3E              0.343059
+
+MIR302D             0
+
+OR5P2               0
+
+MIR4693             0
+
+ACAP2               10.1086
+
+SAMSN1              7.47316
+
+MIR4295             0
+
+PRL                 0.0448817
+
+DSG4                0.0872929
+
+IGSF11-AS1          0
+
+OSBPL9              15.9244
+
+FABP9               0
+
+SNAR-A14            0
+
+CLCA3P              0
+
+RRP1B               5.96656
+
+MIR449B             0
+
+HVCN1               1.84965
+
+RAB8A               86.6379
+
+CD28                0.230657
+
+TMEM184C            8.72806
+
+TPMT                63.3729
+
+MIR1972-2           0
+
+MIR30D              0
+
+CDH17               221.733
+
+PPIP5K2             7.11252
+
+SPINK6              0
+
+ZNF280B             0.099911
+
+MYL10               0
+
+TPM3                148.944
+
+MTPN                55.7711
+
+CHRM5               0.0260053
+
+FDXR                8.85363
+
+SCARNA10            0
+
+LMNA                95.0186
+
+SALL2               0.868558
+
+VWA2                0.64538
+
+TECRL               0.3136
+
+SNORD70             0
+
+RGS21               0
+
+GALT                64.4078
+
+LRRTM2              0.0949729
+
+MIR1278             0
+
+DDX43               0.0296003
+
+C8B                 0
+
+POSTN               9.42082
+
+FAM186B             0.107208
+
+TSC22D3             172.305
+
+KDM6B               10.1014
+
+CDKN3               12.9038
+
+TRIM55              0.180312
+
+TRAK1               49.2629
+
+CTNNA1              140.625
+
+FSHR                0
+
+MIR873              0
+
+DNAH5               0.00239103
+
+FAM101B             7.08689
+
+CD19                0.316392
+
+CHKA                78.1795
+
+TSSK1B              0
+
+TIAM1               0.794302
+
+HCAR1               0.0797671
+
+KIAA1671            8.61048
+
+ESCO2               7.52901
+
+LPAR6               6.44957
+
+OR6C65              0
+
+SNAR-A3             0
+
+IL20RA              1.7928
+
+CCDC130             41.8065
+
+MIR577              0
+
+CEP19               0.339811
+
+IPO7                25.0362
+
+CFHR3               0
+
+FAM110B             0.461532
+
+REM2                0.989209
+
+OR6K6               0
+
+IL17A               0.0223345
+
+C9orf170            0.0114965
+
+OR7D2               0.0122033
+
+MIR34B              0
+
+OR13C4              0
+
+ZNF280D             9.77663
+
+CLLU1OS             0
+
+RIOK1               7.85542
+
+NAV2                2.55813
+
+KRT6B               0.0177642
+
+FAR2                12.7691
+
+DCAF17              3.79538
+
+DYTN                0
+
+TRPM1               0
+
+AGTR2               0
+
+GZMA                5.53829
+
+OTOL1               0
+
+MAN1A2              4.12256
+
+MIR3943             0
+
+DR1                 17.9396
+
+DKK1                0.323301
+
+TMSB4X              2723.33
+
+NOX1                0.381284
+
+FAM183A             0.121525
+
+DCDC2               0.141871
+
+TMEM164             19.8753
+
+FAM175B             12.2528
+
+MIR553              0
+
+MLIP                0.81283
+
+MSX1                0.679984
+
+RECK                1.76293
+
+AHCYL1              139.751
+
+PCCB                18.8364
+
+MRPL17              17.6124
+
+GLT6D1              0
+
+RNASE9              0
+
+PLXNB1              21.8841
+
+SDC4P               0
+
+AIFM1               49.3102
+
+MIR4256             0
+
+MIS18BP1            4.32016
+
+MIR106A              0                            
+
+FGL1                0.213046
+
+DEFB106B            0
+
+CPS1-IT1            0.0175688
+
+PTPRD               3.25981
+
+MIR563              0
+
+DIRAS3              1.39601
+
+ARG2                46.0695
+
+HTR1F               0.0247854
+
+GPR173              0.554988
+
+CCDC83              0.191313
+
+DUSP27              0.0192302
+
+SPC25               3.0565
+
+LCN9                0
+
+RASAL2              2.77954
+
+SYNPR               0.154322
+
+GLT8D2              1.60785
+
+CASP7               91.3156
+
+MRPL48              46.6448
+
+MIR92A2             0
+
+ART3                0.112428
+
+CYTIP               11.6855
+
+SAMD3               0.0195311
+
+SPINK7              0.109888
+
+NKAIN2              0.06333
+
+FAM217B             4.36067
+
+LINC00327           0.0196145
+
+CDH2                0.558927
+
+ZNF624              0.732184
+
+IER3IP1             48.8072
+
+TJAP1               24.7806
+
+ANKUB1              0
+
+SNAR-B1             0
+
+NOX4                0.0272597
+
+OR2D2               0
+
+MIR4796             0
+
+SERF1A              0
+
+TAAR6               0
+
+OR2F2               0
+
+DUSP15              1.53246
+
+WDFY2               1.67498
+
+FAM26D              0
+
+PLAC4               0.17247
+
+ZFAND6              77.6372
+
+MAP2                0.662622
+
+MYO15A              0.0602151
+
+LOC653513           0.733733
+
+PNRC1               33.6465
+
+POGZ                12.7644
+
+PIGX                9.3175
+
+SNORD98             0
+
+CPXCR1              0
+
+KLRC1               0.446515
+
+SNAR-A8             0
+
+KRTAP10-7           0
+
+PTP4A2              87.0524
+
+MIR4491             0
+
+GSTTP2              0
+
+UBA2                32.8413
+
+PRMT5               12.5896
+
+CDX2                99.6803
+
+LOC100506422        0
+
+SLC38A9             3.9331
+
+SERPINA12           0.97964
+
+ZBTB38              11.1933
+
+KIAA0040            5.92412
+
+SPINK5              0.324455
+
+TMEM100             9.43804
+
+CLYBL               3.38969
+
+SLBP                26.9787
+
+TP63                0.0168023
+
+SCN3A               0.10895
+
+ZCCHC13             0.646274
+
+ST3GAL4             3.67806
+
+PPP1R9A             0.965844
+
+E2F5                4.80365
+
+ZNF330              16.0644
+
+DEFB107B            0
+
+FDFT1               68.1539
+
+OR6K3               0
+
+CAPS                16.2849
+
+TAS2R5              0.514162
+
+GPR39               5.23704
+
+NLRP7               0.0248826
+
+HSP90AB4P           1.58205
+
+MIR3668             0
+
+SLC24A1             1.66762
+
+LOC550113           0
+
+GTSF1               0.743445
+
+EFHC1               2.51955
+
+RNF43               10.9078
+
+MIR2052             0
+
+PEX5                20.9743
+
+NAP1L5              3.36854
+
+SNAPC1              1.97785
+
+CSMD3               0.0361031
+
+FER                 0.817748
+
+BMPR1B              0.0928121
+
+CITED4              1.29666
+
+LOC339166           0
+
+MIR320D1            0
+
+TMEM47              2.76524
+
+MIR583              0
+
+MIR4480             0
+
+HMGA2               0.918469
+
+TMEM126A            37.7948
+
+AMIGO2              3.14946
+
+DUSP14              3.43444
+
+IFIT2               5.23469
+
+TSHB                0
+
+PDK3                7.21958
+
+GEMIN8              3.02925
+
+ATP2B1              15.1057
+
+CCP110              3.14292
+
+SHROOM3             19.9134
+
+TOP1P1              9.74435
+
+MIR30B              0
+
+MOCS1               17.4788
+
+CDKL4               0.0271576
+
+OR10G2              0
+
+MIR572              0
+
+SLC39A8             5.45671
+
+SCN7A               0.959234
+
+AURKC               2.09477
+
+PAK2                25.4347
+
+DLC1                4.68477
+
+HKDC1               73.8889
+
+HPD                 0.121577
+
+C4orf45             0
+
+FAM184A             1.95417
+
+USHBP1              1.24118
+
+HSDL2               34.5433
+
+CTCFL               0.0113298
+
+DSG1                0.0140396
+
+GREB1               0.245192
+
+FGGY                6.12491
+
+KDM1B               6.21352
+
+SNAR-A7             0
+
+SLC35E3             0.981694
+
+MIR449A             0
+
+ZNF474              0.0210781
+
+SEC22B              59.6203
+
+SLC44A1             27.427
+
+NDRG1               254.324
+
+PPP2R3A             3.64836
+
+FAM127A             44.8857
+
+OR13C3              0
+
+MIR4509-3           0
+
+MIR205HG            0
+
+GC                  1.52494
+
+ESR1                0.173576
+
+C22orf31            0.0429407
+
+TAB2                23.8169
+
+KIAA1456            0.782151
+
+YEATS4              13.3981
+
+RNF217              0.763853
+
+MIR367              0
+
+ADAMTS18            0
+
+SNX30               6.5018
+
+ARHGAP15            4.70773
+
+AKAP6               0.621899
+
+SCARNA21            0
+
+MIR30A              0
+
+OR51F2              0
+
+MARS2               4.48539
+
+SETD5               10.6008
+
+JDP2                17.3175
+
+HDAC11              13.1794
+
+CDK14               1.4058
+
+SNAR-A10            0
+
+HIST3H3             0
+
+HIST1H2BI           5.12378
+
+NR2C1               4.06242
+
+PLA2G6              10.4179
+
+PECR                28.8293
+
+LRRTM4              0.032324
+
+ANKRD32             4.49019
+
+COLEC11             1.59102
+
+CLLU1               0.139032
+
+IQUB                0.165911
+
+SKP1P2              9.98907
+
+ACTR2               94.5858
+
+BASP1P1             0
+
+SNAR-A6             0
+
+C8orf46             0.158178
+
+CUX1                21.2148
+
+C2orf66             0.560684
+
+SLC26A7             0.00727427
+
+STARD10             130.566
+
+AKAP5               0.384046
+
+KIAA0040            9.6398
+
+ELK3                5.45623
+
+ANGPTL3             0.0384285
+
+DPY19L2P4           0
+
+FNDC3B              5.32475
+
+ZCCHC4              3.58218
+
+TAS2R46             0
+
+NEDD4               6.95762
+
+ROBO2               0.301231
+
+POPDC3              0
+
+SLC41A1             2.8947
+
+CYP4A22             0
+
+HNRNPH3             83.7247
+
+PATZ1               8.82534
+
+OR5T3               0
+
+TTC9                1.09676
+
+SPG20               7.20283
+
+SGK494              0.871047
+
+LOC100130298        0.615776
+
+PTPDC1              1.83143
+
+MIR302B             0
+
+ZNF385B             0.015272
+
+OR10X1              0
+
+ASCC3               6.10746
+
+LGALS8              14.2179
+
+ZMIZ2               20.7107
+
+MIR30E              0
+
+POU6F2              0
+
+CCKAR               0.0750867
+
+IKZF5               5.32078
+
+SLCO6A1             0
+
+TRIML2              0
+
+LOC339862           0
+
+CABIN1              11.5954
+
+ETS1                13.5072
+
+TXNIP               210.543
+
+CPOX                17.7135
+
+OR5H15              0
+
+SH2D1A              0.096042
+
+LINC00320           0
+
+KIAA0087            0.0536715
+
+ASB15               0
+
+MSX2                0.0921188
+
+HGF                 0.142777
+
+SCMH1               20.4266
+
+LOC283683           0.179105
+
+SNORA70B            0
+
+LOC100131347        0.142203
+
+ATP12A              0
+
+STATH               0
+
+FMO6P               0.232565
+
+PTPRQ               0
+
+DPRX                0
+
+MYO3B               0.0688859
+
+CD4                 4.3959
+
+KCNN2               0.0886875
+
+LOC100131564        0.980078
+
+HDHD3               202.075
+
+RPSAP9              7.99097
+
+WNT5B               1.75656
+
+HIST1H3G            2.91241
+
+MCHR1               0.199559
+
+MIR2113             0
+
+OR5B3               0
+
+PVR                 15.4657
+
+MIR548AC            0
+
+A2MP1               0.413113
+
+ATXN3               3.05728
+
+SNORD71             0
+
+SIPA1L1             13.1862
+
+TFEC                2.44128
+
+TAAR5               0
+
+ADGB                0.0803274
+
+PLSCR2              0.0367147
+
+HLA-DRB6            0
+
+ASB17               0
+
+GDE1                35.7604
+
+PEBP1               1568.36
+
+MIR551B             0
+
+NRG4                0.186768
+
+MANEA               2.64986
+
+KLRC2               0.889876
+
+MIR181A1            0
+
+CCDC129             0.0538536
+
+TPP2                6.8551
+
+PRC1                8.67152
+
+THSD7A              0.403685
+
+MIR4288             0
+
+ITGB1               29.8445
+
+MIR106A             0
+
+MIR2054             0
+
+RGS12               5.54489
+
+CT62                0.0227214
+
+MIR548F2            0
+
+HEXIM2              8.33336
+
+ACADSB              16.4981
+
+CAB39L              2.35635
+
+SNAR-B2             0
+
+GYS2                0
+
+SCGB3A2             0.121124
+
+ATP6V1G3            0
+
+SYNPO2              10.5517
+
+EIF3M               114.924
+
+RNF148              1.13516
+
+KCP                 2.21675
+
+LOC400655           0
+
+SNAR-A4             0
+
+SCARNA20            0
+
+MIR135A2            0
+
+ELOVL6              10.1222
+
+TEX15               0.00742066
+
+EDNRB               3.38225
+
+TTLL9               0
+
+WDR38               0.0354056
+
+PART1               0.0844092
+
+DSP                 69.2723
+
+NIPSNAP3B           0.0955566
+
+MIR20B              0
+
+LDHD                22.4277
+
+C2orf88             40.1808
+
+KLHDC10             9.67153
+
+PBLD                202.431
+
+AGPAT1              0
+
+CECR2               0.293995
+
+OR13C9              0
+
+VNN2                0.758105
+
+NKX1-2              0
+
+LOC100506274        0
+
+MIR605              0
+
+GCK                 0.116842
+
+MIR4737             0
+
+OR6S1               0.521443
+
+CDCA7L              5.76006
+
+TCL6                0.0118757
+
+VIT                 1.89991
+
+GOLGA8A             11.9589
+
+KIF5C               1.20951
+
+SLC2A1              3.07648
+
+KCNJ13              40.6645
+
+GNRHR               0.0200489
+
+CLEC9A              0.0503668
+
+ARHGAP28            1.39349
+
+CDRT15L2            0
+
+TARP                0.818053
+
+EHBP1               7.43153
+
+MS4A2               0.323001
+
+BTG4                0
+
+TMEM169             1.0346
+
+AVIL                6.76511
+
+MIR3942             0
+
+RBFOX1              0.309817
+
+CLCC1               5.41382
+
+LOC100130964        0
+
+MIR125B2            0
+
+KIF7                0.481938
+
+SVOPL               0
+
+BDNF                0.052842
+
+LPHN3               0.516945
+
+MIR18B              0
+
+GLE1                19.7234
+
+DMRTA1              0.017594
+
+NAA16               2.91832
+
+SCG5                3.79175
+
+USP30               3.5229
+
+NHEG1               0
+
+VSIG10              30.0562
+
+GPR89A              6.67965
+
+TIAM2               11.2716
+
+FMO9P               0
+
+NBPF1               2.45156
+
+LOC643623           0
+
+MIR4279             0
+
+ZFP42               0
+
+ABL1                20.6042
+
+CMPK1               215.99
+
+MIR567              0
+
+RAB23               2.79125
+
+LALBA               0
+
+HIST1H3C            2.40626
+
+HKR1                8.95447
+
+BMP6                1.19693
+
+SRGAP2              2.8995
+
+CERS5               9.64372
+
+TPI1P3              0.110256
+
+CSRNP3              0.363376
+
+MIR491              0
+
+ANKRD28             10.2656
+
+MIR3198-1           0
+
+CDK13               8.28475
+
+OR52D1              0.0432441
+
+ABL2                2.93186
+
+MALL                2.25906
+
+SMAD2               8.24618
+
+MIR19B2             0
+
+MIR181B1            0
+
+PKP2                17.6836
+
+TLE1                6.40389
+
+FTH1                2704.54
+
+NUCB2               11.5377
+
+MPZL1               21.1218
+
+TMEM160             23.5213
+
+ATP6AP1L            2.85534
+
+FAM178A             4.16492
+
+DEFB133             0
+
+EIF4G3              12.4847
+
+SNPH                1.93623
+
+MIR4782             0
+
+MIR3675             0
+
+CSNK1A1L            1.43172
+
+RUFY3               11.9985
+
+SMAD3               15.278
+
+MIR3660             0
+
+SPAG11B             0
+
+WFDC8               0
+
+CCDC90B             27.54
+
+GTF3C3              8.38371
+
+PIK3C2G             2.58065
+
+CPO                 7.07404
+
+ACOT13              8.39058
+
+DNAJC15             40.3171
+
+AARSD1              12.4511
+
+SLIT2-IT1           0
+
+MIR26A2             0
+
+POM121L12           0
+
+ITGB5               15.8179
+
+VAV3                9.07919
+
+ANTXR1              4.60559
+
+MITF                1.28642
+
+DAD1                204.041
+
+UEVLD               5.96779
+
+MIR181A2            0
+
+DNMT3B              0.221661
+
+MAD1L1              5.82869
+
+OR5A2               0
+
+TAS2R30             0
+
+HSD17B4             119.524
+
+ZBTB24              4.11987
+
+FMNL3               1.39302
+
+GPR22               0.161501
+
+SELPLG              3.53657
+
+GNGT1               0
+
+DLEU2L              0.0763884
+
+OR56B1              0
+
+MIR363              0
+
+PPP1R3D             4.35151
+
+KCTD6               4.48778
+
