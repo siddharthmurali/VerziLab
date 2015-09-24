@@ -1,0 +1,7 @@
+9/1/15
+
+Bioinformatics Analysis w/ CummeRbund
+CuffNorm (Normalized expression data)
+
+Look at two genes - Genes that have cdx2 binding w/ and w/o acetylation
+Take .bed files, run BETA and get genes. 

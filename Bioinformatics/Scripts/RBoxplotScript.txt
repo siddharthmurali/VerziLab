@@ -1,0 +1,34 @@
+//Boxplot with aesthetics…last param is for ordering
+
+bp <- ggplot(data = out6AllValues, aes(x = Sample, y = RPKM)) + 
+    geom_boxplot(aes(fill=Sample)) + 
+    geom_point(aes(color = Sample)) + ylim(0,10) + stat_summary(fun.y=mean, colour="darkred", geom="point", shape=18, size=3,show_guide = FALSE) + theme_bw() + xlim("Fetal-SI", "ESC", "Endo", "D4CF", "Adult-SI")
+
+
+bp <- ggplot(data = meltData2, aes(x = variable, y = value)) + 
+    geom_boxplot(aes(fill=variable)) + 
+    geom_point(aes(color = variable)) + ylim(0,5) + stat_summary(fun.y=mean, colour="darkred", geom="point", shape=18, size=3,show_guide = FALSE) + theme_bw() + xlim("Adult_SI-1",	"D4CF-1",	"ES1",	"Fetal_SI-1",	"Adult_SI-2",	"D4CF-2",	"DE2",	"ES2",	"Fetal_SI-2",	"Adult_SI-3",	"D4CF-3",	"DE3",	"ES3")
+
+dataMelt <- melt(D4cF_Cdx2_NO_k27ac_10kb_Genes_Perl_RemovedTracking, id = c("Genes"))
+
+ppc <- ggplot(data = dataMelt, aes(x = variable, y = value))
+
+ppc + geom_boxplot(aes(fill = variable)) + ylim(0,5) + stat_summary(fun.y=mean, colour="darkred", geom="point", shape=18, size=3,show_guide = FALSE) + theme_bw()
+
+boxplot(out6$RPKM ~out6$Sample)
+
+//Melt Data
+
+dataMelt <- melt(data, id = c("Genes"))
+
+// Order Columns
+
+awk -v OFS='\t' '{print $1, $2, $6, $11, $3, $7, $12, $8, $13, $4, $9, $14, $5, $10 }' D4cF_Cdx2_NO_k27ac_10kb_Genes_Perl_RemovedTracking.txt > test.txt
+
+//Remove Data with ‘string’
+
+grep -v '^LINC' D4cF_Cdx2_NO_k27ac_10kb_Genes_Perl_RemovedTracking.txt > test.txt
+
+//Remove Data with expression<1
+
+awk '{ if ( $2 > .99 && $3 > .99 && $4 > .99 && $5 > .99 && $6 > .99 && $7 > .99 && $8 > .99 && $9 > .99 && $10 > .99 && $11 > .99 && $12 > .99 && $13 > .99 && $14 > .99 ) print $0 }' test4.txt > test5.txt 
